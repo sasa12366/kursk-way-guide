@@ -37,7 +37,7 @@ const Hero = () => {
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <Button 
                 size="lg" 
-                className="bg-white text-primary hover:bg-white/90 text-lg px-8 py-6 shadow-card"
+                className="bg-white text-primary hover:bg-white/90 text-lg px-8 py-6 shadow-card transition-transform duration-200 hover:scale-105"
                 asChild
               >
                 <a 
@@ -54,7 +54,7 @@ const Hero = () => {
               <Button 
                 size="lg" 
                 variant="outline" 
-                className="border-2 border-white bg-white text-primary hover:bg-white/90 hover:text-primary text-lg px-8 py-6"
+                className="border-2 border-white bg-white text-primary hover:bg-white/90 hover:text-primary text-lg px-8 py-6 transition-transform duration-200 hover:scale-105"
                 asChild
               >
                 <a href="#about">
