@@ -15,7 +15,7 @@ const Gallery = () => {
     {
       src: gallery2,
       alt: "Мемориальный комплекс Курская дуга",
-      title: "Курская дуга"
+      title: "Триумфальная арка"
     },
     {
       src: gallery3,
