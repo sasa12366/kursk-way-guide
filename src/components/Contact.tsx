@@ -62,7 +62,7 @@ const Contact = () => {
             <h3 className="text-2xl md:text-3xl font-bold mb-4">
               Начните своё путешествие прямо сейчас
             </h3>
-            <p className="text-lg mb-8 text-white/90 max-w-2xl mx-auto">
+            <p className="text-lg mb-8 text-muted-foreground max-w-2xl mx-auto">
               Скачайте приложение "Курский путь" и откройте для себя все красоты Курской области
             </p>
             <Button
